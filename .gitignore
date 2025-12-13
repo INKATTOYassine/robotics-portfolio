@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+.env
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Unity (later per project)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Catkin/Colcon (ROS build system)
+build/
+devel/
+install/
+log/
+*.pyc
+
+# Simulation and log files
+*.bag
+*.bag.active
+*.log
