@@ -1,3 +1,4 @@
 # Robotics Portfolio
 
-Welcome to my robotics portfolio! This repository contains projects, code, and documentation related to my work in robotics.
+Bienvenue dans mon portfolio de robotique ! Ce dépôt contient des projets, du code et de la documentation liés à mon travail en robotique.
+## Archivé — remplacé par embodied-ai-journey, mon dépôt actif
